@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.pill": "pillar",
+    "wininet.h": "c"
+  }
+}
